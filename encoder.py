@@ -99,3 +99,4 @@ class IndexEncoder:
                             pre_vec[i] += 0.25
                 self.embedding_vec[table_idx][attr_idx] += pre_vec
                 
+
